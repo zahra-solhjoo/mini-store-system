@@ -147,29 +147,35 @@ python ministore.py
 ## Welcome Screen
 
 
-## Main Menu
 
-![Main Menu](screenshots/main-menu.png)
-
----
-
-## Manager Menu
-
-![Manager Menu](screenshots/manager-menu.png)
+![Main Menu](mini-store1.png)
 
 ---
 
-## Customer Menu
 
-![Customer Menu](screenshots/customer-menu.png)
+![Manager Menu](mini-store2.png)
+
+---
+
+
+![Customer Menu](mini-store3.png)
 
 ---
 
-## Shopping Cart
 
-![Shopping Cart](screenshots/cart.png)
+![Shopping Cart](mini-store4.png)
 
 ---
+
+
+
+![Shopping Cart](mini-store5.png)
+
+---
+
+
+![Shopping Cart](mini-store6.png)
+
 
 
 ---
